@@ -41,3 +41,4 @@
 ● 填補欄位（Padding）：IP 資料片的標頭一定是 32 位元的整數倍，當 Options 欄位不足 32 位元整數倍時由 Padding 欄位補足。
 
 ```
+![ip](https://user-images.githubusercontent.com/90738178/138281443-eb7877a9-bf07-42af-a764-781f096cca40.PNG)
