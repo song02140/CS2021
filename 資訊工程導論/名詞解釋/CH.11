@@ -1,0 +1,26 @@
+- 數位通訊digital communication
+- podcast 播客
+- 網路研討會| webinar|web-based seminar 
+- VoIP（Voice over Internet Protocol）
+- 影片部落格（video blog 或 vlog）
+- 內容聚合（content aggregator） 
+- 微型部落格（microblog)
+- 現場部落格（live blog） 
+- 媒體分享網路（media-sharing network）
+- 消費者評價網路（consumer review network）
+- 討論區網路（discussion forum network
+- 社群書籤（social bookmarking） 
+- 社群典藏（social curation）
+- 網路禮節（netiquette）(必考題)
+- `群眾`外包（`crowd`sourcing）  vs 外包(`out`sourcing）  
+- `群眾`集資（`crowd`funding） ==> http://iiic.niu.edu.tw/actnews/intro.php?Sn=13&OSn=42
+- 科技上癮（technology addiction）
+- 科技過載（technology overload）
+- 網路霸凌（cyber`bullying`）
+- 網路跟蹤（cyber`stalking`）
+- emoji(必考題)
+- 謾罵論戰（flaming）
+- 同好社群網站（interest-based network
+- 電子郵件位址（email address）
+- 網域名稱（domain name）
+- 「關於」頁面（About page）
