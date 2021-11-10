@@ -1,0 +1,36 @@
+- ISP ==> 網際網路服務業者（Internet service provider, ISP）
+- 網路(硬體)設備: 集線器（hub） 交換器（switch） 路由器（router） 數據機（modem）
+- 網路介面卡（network interface card, NIC）
+- 網路拓樸（network topology）
+- 網路架構（network architecture）
+- 主從式網路（client/server network）
+- 點對點網路（peer-to-peer network, P2P network）
+- 區域網路（local area network, LAN）
+- 廣域網路（wide area network, WAN）
+- 都會區域網路（metropolitan area network, MAN）
+- 個人區域網路（personal area network, PAN）
+- 個人區域網路（personal area network, PAN）
+- VPN(必考題)
+- interet. intranet, extranet
+- 惡意軟體（malware）
+- 網路釣魚（phishing）
+- 社交工程（social engineering）
+- 阻斷服務攻擊（denial of service attack）|DoS 攻擊（DoS attack）
+- 分散式阻斷服務攻擊（distributed denial of service attack）| DDoS 攻擊（DDoS attack）
+- 殭屍（zombie）電腦
+- 雙面惡魔evil twin | fake ap | rogue ap
+- 驗證（authentication）(必考題)
+- 強式密碼（strong password） @KsU093728384!
+- 防火牆（firewall） ==> 硬體防火牆 軟體防火牆
+- 網路附接儲存體（network attached storage, NAS）
+- 加密（encryption）
+- 網路標準（network standard）
+- Ethernet(必考題)
+- 協定（protocol）
+- Transmission Control Protocol/Internet Protocol（傳輸控制協定／網際網路協定）
+- NFC(必考題)
+- RFID
+- 蜂巢式網路（cellular network）(必考題)
+- Wi-Fi 熱點(hopspot)
+- 路由器韌體firmware
+- 硬體(hardware)|軟體(software)|韌體(firmware)
