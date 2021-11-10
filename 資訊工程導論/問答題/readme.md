@@ -1,3 +1,4 @@
+```
 1. 解釋 communication protocol(簡稱協定 protocol)
 
 2. Why Layering? (為何要分層 ?)
@@ -25,3 +26,4 @@
 (1)PORT address
 (2)IP address
 (3)MAC address
+```
