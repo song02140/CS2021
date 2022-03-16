@@ -54,7 +54,7 @@ Index(['d', 'b', 'a', 'c'], dtype='object')
 obj2['a']
 ```
 -5  
-  將obj2裡面名為a的索引(index)的值(value)叫出來  
+將obj2裡面名為a的索引(index)的值(value)叫出來  
 ```python
 obj2[['c', 'a', 'd']]
 ```
