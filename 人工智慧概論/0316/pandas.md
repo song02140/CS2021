@@ -22,6 +22,7 @@ obj
 3    3
 dtype: int64
 ```
+左邊表示index，右邊表示對應的value。可以通過value和index屬性查看：
 ```python
 
 ```
