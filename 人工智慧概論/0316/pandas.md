@@ -5,3 +5,29 @@
 ```python
 import pandas as pd
 ```
+## 可以導入Series和DataFrame，因為這兩個經常被用到
+```python
+from pandas import Series, DataFrame
+```
+## 
+```python
+
+```
+```python
+
+```
+```python
+
+```
+```python
+
+```
+```python
+
+```
+```python
+
+```
+```python
+
+```
