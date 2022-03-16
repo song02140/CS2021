@@ -23,7 +23,7 @@ obj
 3    3
 dtype: int64
 ```
-#### 左邊表示索引(index)，右邊表示對應的值(value)。可以通過value和index屬性查看：
+#### 左側為索引(index)，右側表示對應的值(value)。可以通過.value和.index屬性查看：
 ```python
 obj.values
 ```
