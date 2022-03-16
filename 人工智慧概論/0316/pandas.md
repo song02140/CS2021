@@ -10,7 +10,7 @@ import pandas as pd
 from pandas import Series, DataFrame
 ```
 ## 1 Series 
-### series是一個像數組一樣的一維序列，並伴有一個數組表示label，叫做index。
+### series是一個類似陣列的物件。
 #### 創建一個series： 
 ```python
 obj = pd.Series([4, 7, -5, 3])
