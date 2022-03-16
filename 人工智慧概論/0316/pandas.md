@@ -75,8 +75,9 @@ a   -5
 d    6
 dtype: int64
 ```
-```python
 
+```python
+obj2[obj2 > 0]
 ```
 ```python
 
