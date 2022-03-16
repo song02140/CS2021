@@ -48,9 +48,15 @@ dtype: int64
 obj2.index
 ```
 Index(['d', 'b', 'a', 'c'], dtype='object')
+#### 透過index搜尋
 ```python
-
+obj2['a']
 ```
+-5
 ```python
-
+obj2[['c', 'a', 'd']]
 ```
+c    3
+a   -5
+d    6
+dtype: int64
