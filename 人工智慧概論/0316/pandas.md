@@ -125,8 +125,19 @@ Texas     71000
 Utah       5000
 dtype: int64
 ```
+也可以利用dict來排列，順序是按照states，但因為並沒有在sdata找到'California'，所以為NaN，表示數據缺失
 ```python
+states = ['California', 'Ohio', 'Oregon', 'Texas']
 
+obj4 = pd.Series(sdata, index=states)
+obj4
+```
+```
+California        NaN
+Ohio          35000.0
+Oregon        16000.0
+Texas         71000.0
+dtype: float64
 ```
 ```python
 
