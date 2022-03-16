@@ -23,7 +23,8 @@ obj
 3    3
 dtype: int64
 ```
-#### 左側為索引(index)，右側表示對應的值(value)。可以通過.value和.index屬性查看：
+左側為索引(index),右側為值(value)
+#### 通過.value和.index屬性查看：
 ```python
 obj.values
 ```
@@ -32,7 +33,7 @@ array([ 4,  7, -5,  3])
 obj.index
 ```
 RangeIndex(start=0, stop=4, step=1)
-#### 當然我們也可以自己指定index的標籤(label)：
+#### 指定index的標籤(label)：
 ```python
 obj2 = pd.Series([4, 7, -5, 3], index=['d', 'b', 'a', 'c'])
 obj2
@@ -53,6 +54,7 @@ Index(['d', 'b', 'a', 'c'], dtype='object')
 obj2['a']
 ```
 -5
+將obj2裡面名為a的索引(index)的值(value)叫出來
 ```python
 obj2[['c', 'a', 'd']]
 ```
@@ -66,6 +68,7 @@ dtype: int64
 ```pythoon
 obj2['d'] = 6
 ```
+將obj2裡面名為d的索引(index)的值(value)變更為6
 ```python
 obj2[['c', 'a', 'd']]
 ```
