@@ -5,7 +5,7 @@
 ```python
 import pandas as pd
 ```
-### 可以導入Series和DataFrame，因為這兩個經常被用到
+### 導入Series和DataFrame
 ```python
 from pandas import Series, DataFrame
 ```
@@ -62,3 +62,46 @@ a   -5
 d    6
 dtype: int64
 ```
+#### 透過index設定
+```pythoon
+obj2['d'] = 6
+```
+```python
+obj2[['c', 'a', 'd']]
+```
+```
+c    3
+a   -5
+d    6
+dtype: int64
+```
+```python
+
+```
+```python
+
+```
+
+```python
+
+```
+```python
+
+```
+```python
+
+```
+```python
+
+```
+
+
+
+
+
+
+
+
+
+
+
