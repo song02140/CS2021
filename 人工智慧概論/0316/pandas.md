@@ -10,7 +10,8 @@ import pandas as pd
 from pandas import Series, DataFrame
 ```
 ## 1 Series 
-### 這裡series我就不翻譯成序列了，因為之前的所有筆記裡，我都是把sequence翻譯成序列的。series是一個像數組一樣的一維序列，並伴有一個數組表示label，叫做index。創建一個series的方法也很簡單： 
+### 這裡series我就不翻譯成序列了，因為之前的所有筆記裡，我都是把sequence翻譯成序列的。
+### series是一個像數組一樣的一維序列，並伴有一個數組表示label，叫做index。創建一個series的方法也很簡單： 
 ```python
 
 ```
