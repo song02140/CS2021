@@ -101,10 +101,29 @@ c     6
 dtype: int64
 ```
 ```python
-
+import numpy as np
+np.exp(obj2)
 ```
+```
+d     403.428793
+b    1096.633158
+a       0.006738
+c      20.085537
+dtype: float64
+```
+#### 利用dict來創建series
 ```python
+sdata = {'Ohio': 35000, 'Texas': 71000, 'Oregon':16000, 'Utah': 5000}
 
+obj3 = pd.Series(sdata)
+obj3
+```
+```
+Ohio      35000
+Oregon    16000
+Texas     71000
+Utah       5000
+dtype: int64
 ```
 ```python
 
