@@ -9,7 +9,7 @@ import pandas as pd
 ```python
 from pandas import Series, DataFrame
 ```
-## 1 Series 
+## 1 Series 的運算
 ### series是一個類似陣列的物件。
 #### 用pd.series()創建一個series： 
 ```python
