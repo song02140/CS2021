@@ -78,14 +78,28 @@ a   -5
 d    6
 dtype: int64
 ```
-
+#### 其他運算
 ```python
 obj2[obj2 > 0]
 ```
-```python
-
 ```
-
+d    6
+b    7
+c    3
+dtype: int64
+```
+只顯示值(value)>0
+```python
+obj2 * 2
+```
+```
+d    12
+b    14
+a   -10
+c     6
+dtype: int64
+```
+將值(value)*2
 ```python
 
 ```
