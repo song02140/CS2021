@@ -16,13 +16,13 @@ from pandas import Series, DataFrame
 obj = pd.Series([4, 7, -5, 3])
 obj
 ```
-```
+
 0    4
 1    7
 2   -5
 3    3
 dtype: int64
-```
+
 左邊表示索引(index)，右邊表示對應的值(value)。可以通過value和index屬性查看：
 ```python
 obj.values
